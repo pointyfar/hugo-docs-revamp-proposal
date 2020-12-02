@@ -1,0 +1,49 @@
+in: | 
+  {{ $pages := (datasource "pages") }}
+  
+  {{ template "makepages" (dict "data" $pages.pages "path" "generatedcontent/" "level" 1 ) }}
+
+  {{ define "makepages" }}
+
+    {{ $level := .level }}
+    {{ $path := .path }}
+    
+    {{ range $i, $e := .data }}
+        {{ $slug := .title | strings.Slug }}
+        
+        {{ if coll.Has . "path" }}{{ $slug = print .path }}{{ end }}
+        
+        {{ $path2 := "" }}
+        
+        {{ $pg := . }}
+        
+        {{ if coll.Has . "children" }}
+
+          {{ if eq $level 1 }}
+            {{ $home :=  (dict "title" "Hugo Documentation Revamp Proposal" )}}
+            {{ tmpl.Exec "pageTmpl" $home | file.Write (print $path "/" "_index.md") }}
+          {{ end }}
+          {{ tmpl.Exec "pageTmpl" $pg | file.Write (print $path $slug "/_index.md") }}
+          
+          {{ $path2 := print $path $slug "/" }}
+          {{ template "makepages" (dict "data" .children "path" $path2 "level" (add 1 $level)) }}
+          
+        {{ else }}
+          {{ tmpl.Exec "pageTmpl" $pg | file.Write (print $path "/" $slug ".md") }}
+        {{ end }}
+
+    {{ end }}
+  {{ end }}
+
+
+templates:
+  - pageTmpl=gomplate/foo.tmpl
+      
+datasources:
+  posts:
+    url: sources/datasource.json 
+  pages:
+    url: sources/docs.yaml
+
+suppressEmpty: true
+

@@ -1,0 +1,126 @@
+pages:
+  - title: Getting Started With Hugo
+    path: start
+    children:
+      - title: What is Hugo
+      - title: Hugo vs ___
+      - title: What is a static website
+      - title: What is a typical Hugo site structure
+        children:
+          - title: What are archetypes
+          - title: What are content files
+          - title: What are data files
+          - title: What are layout files
+          - title: What are static files
+          - title: What are assets files
+          - title: What are themes
+          - title: What are configuration files
+      - title: What are some common concepts
+        path: common
+        children:
+          - title: What is a Page
+          - title: What is a Page’s .Kind
+          - title: What is a Page’s .Type
+          - title: What is a Page’s .Section
+          - title: What are shortcodes
+          - title: What is a Hugo Menu
+          - title: What are taxonomies and terms
+          - title: What is markdown
+          - title: What is the relationship of content structure to output structure
+      - title: Templating in Hugo
+        children:
+          - title: Syntax
+          - title: Using functions
+          - title: Iteration
+          - title: Conditionals
+          - title: Pipes
+          - title: Whitespace
+  - title: Tutorials
+    children:
+      - title: Create a Hugo site from scratch
+      - title: Create a Multilingual Hugo site
+      - title: Create a custom output format
+      - title: Add search to your Hugo website
+  - title: How To Do Things With Hugo
+    children:
+      - title: Installing Hugo
+        children:
+          - title: How to install Hugo on Windows machine
+          - title: How to install Hugo on Linux
+          - title: How to install Hugo on Mac
+          - title: How to install Hugo on ___
+          - title: How to use Hugo in a Docker container
+      - title: Migrating to Hugo
+        children:
+          - title: How to migrate from ___
+      - title: Deploying Hugo
+        children:
+          - title: How to use `hugo deploy`
+          - title: How to deploy Hugo using Nanobox
+          - title: How to deploy Hugo using Netlify
+          - title: How to deploy Hugo using AWS Amplify
+          - title: How to deploy Hugo using Render
+          - title: How to deploy Hugo using Firebase
+          - title: How to deploy Hugo using GitHub
+          - title: How to deploy Hugo using GitLab
+          - title: How to deploy Hugo using KeyCDN
+          - title: How to deploy Hugo using BitBucket
+          - title: How to deploy Hugo using Wercker
+          - title: How to deploy Hugo using Rsync
+      - title: Themes
+        children:
+          - title: How to use existing themes
+          - title: How to customise existing themes
+          - title: How to use theme components
+          - title: How to customise theme components
+          - title: How to create a theme
+      - title: Menus
+        children:
+          - title: How to configure lazy menus
+          - title: How to define menus in config
+          - title: How to define menus in page frontmatter
+          - title: How to render menus in layouts
+      - title: Pagination
+        children:
+          - title: How to use internal pagination template
+          - title: How to create own pagination template
+      - title: Modules
+        children:
+          - title: How to prepare your project to use modules
+          - title: How to use existing / external modules
+          - title: How to update modules used
+          - title: How to vendor modules
+      - title: Content Management
+        children:
+          - title: How to add syntax highlighting
+          - title: How to use Page Bundles
+          - title: How to
+          - title: How to manage content’s output URL
+      - title: Taxonomies
+        children:
+          - title: How to define taxonomies
+          - title: How to disable taxonomies
+          - title: How to add taxonomies to content
+          - title: How to list taxonomies
+          - title: How to configure multilingual taxonomies
+          - title: How to add frontmatter to taxonomies
+      - title: Multilingual Sites
+        children:
+          - title: How to configure multilingual use
+  - title: Technical Reference
+    children:
+      - title: CLI commands
+      - title: Configuration options
+      - title: Functions
+      - title: Variables
+        children:
+          - title: Site variables
+          - title: Page variables
+          - title: Section variables
+          - title: Taxonomy variables
+          - title: File variables
+          - title: Hugo variables
+          - title: Git variables
+          - title: Sitemap variables
+      - title: Chroma highlighting languages
+      - title: Tools
