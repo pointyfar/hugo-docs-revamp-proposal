@@ -27,7 +27,7 @@ writeStats = true
   target = "content"
 
 [[module.mounts]]
-  source = "static"
+  source = "static2"
   target = "static"
 
 [[module.mounts]]
