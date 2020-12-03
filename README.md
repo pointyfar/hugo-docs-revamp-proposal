@@ -17,4 +17,6 @@ To re-generate `generatedcontent`, run `gomplate` at the root of the project.
 
 Project uses [Learn](https://themes.gohugo.io/hugo-theme-learn/) theme.
 
+`v2` branch uses tailwind https://github.com/pointyfar/drt
+
 Repo at https://github.com/pointyfar/hugo-docs-revamp-proposal
