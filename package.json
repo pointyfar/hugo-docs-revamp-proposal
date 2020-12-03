@@ -24,7 +24,8 @@
  "scripts": {
      "gomplate:clean": "./node_modules/.bin/del-cli generatedcontent",
      "gomplate:run": "gomplate",
-     "gomplate:regen": "npm run gomplate:clean && npm run gomplate:run"
+     "gomplate:regen": "npm run gomplate:clean && npm run gomplate:run",
+     "hugo:build": "hugo --config=config2.toml && hugo"
  },
  "name": "docs-revamp",
  "version": "0.1.0"

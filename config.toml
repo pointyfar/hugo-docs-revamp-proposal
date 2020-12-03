@@ -6,9 +6,6 @@ theme = "github.com/matcornic/hugo-theme-learn"
 
 [params]
   themeVariant = "grey"
-  
-[build]
-writeStats = true
 
 [module]
 
