@@ -2,11 +2,9 @@ baseURL = "https://sleepy-noether-c999b7.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
-theme = "github.com/matcornic/hugo-theme-learn"
+theme = "drt"
 
-[params]
-  themeVariant = "grey"
-  
+
 [build]
 writeStats = true
 

@@ -1,0 +1,31 @@
+{
+ "comments": {
+  "dependencies": {},
+  "devDependencies": {
+   "@tailwindcss/typography": "drt",
+   "autoprefixer": "drt",
+   "postcss": "drt",
+   "postcss-cli": "drt",
+   "postcss-purgecss": "drt",
+   "tailwindcss": "drt"
+  }
+ },
+ "dependencies": {
+  "del-cli": "^3.0.1"
+ },
+ "devDependencies": {
+  "@tailwindcss/typography": "^0.3.0",
+  "autoprefixer": "^10.0.4",
+  "postcss": "^8.1.10",
+  "postcss-cli": "^8.0.0",
+  "postcss-purgecss": "^2.0.3",
+  "tailwindcss": "^2.0.1"
+ },
+ "scripts": {
+     "gomplate:clean": "./node_modules/.bin/del-cli generatedcontent",
+     "gomplate:run": "gomplate",
+     "gomplate:regen": "npm run gomplate:clean && npm run gomplate:run"
+ },
+ "name": "docs-revamp",
+ "version": "0.1.0"
+}
