@@ -35,79 +35,98 @@ pages:
           - title: Conditionals
           - title: Pipes
           - title: Whitespace
-  - title: Tutorials
+  - title: Tutorials About Hugo
+    path: tutorials
     children:
       - title: Create a Hugo site from scratch
       - title: Create a Multilingual Hugo site
       - title: Create a custom output format
       - title: Add search to your Hugo website
   - title: How To Do Things With Hugo
+    path: howto
     children:
-      - title: Installing Hugo
+      - title: Manage Hugo
         children:
-          - title: How to install Hugo on Windows machine
-          - title: How to install Hugo on Linux
-          - title: How to install Hugo on Mac
-          - title: How to install Hugo on ___
-          - title: How to use Hugo in a Docker container
-      - title: Migrating to Hugo
+        - title: Installing Hugo
+          children:
+            - title: How to install Hugo on Windows machine
+            - title: How to install Hugo on Linux
+            - title: How to install Hugo on Mac
+            - title: How to install Hugo on ___
+            - title: How to use Hugo in a Docker container
+        - title: Migrating to Hugo
+          children:
+            - title: How to migrate from ___
+        - title: Deploying Hugo
+          children:
+            - title: How to use `hugo deploy`
+            - title: How to deploy Hugo using Nanobox
+            - title: How to deploy Hugo using Netlify
+            - title: How to deploy Hugo using AWS Amplify
+            - title: How to deploy Hugo using Render
+            - title: How to deploy Hugo using Firebase
+            - title: How to deploy Hugo using GitHub
+            - title: How to deploy Hugo using GitLab
+            - title: How to deploy Hugo using KeyCDN
+            - title: How to deploy Hugo using BitBucket
+            - title: How to deploy Hugo using Wercker
+            - title: How to deploy Hugo using Rsync
+
+      - title: Manage Dependencies
         children:
-          - title: How to migrate from ___
-      - title: Deploying Hugo
-        children:
-          - title: How to use `hugo deploy`
-          - title: How to deploy Hugo using Nanobox
-          - title: How to deploy Hugo using Netlify
-          - title: How to deploy Hugo using AWS Amplify
-          - title: How to deploy Hugo using Render
-          - title: How to deploy Hugo using Firebase
-          - title: How to deploy Hugo using GitHub
-          - title: How to deploy Hugo using GitLab
-          - title: How to deploy Hugo using KeyCDN
-          - title: How to deploy Hugo using BitBucket
-          - title: How to deploy Hugo using Wercker
-          - title: How to deploy Hugo using Rsync
-      - title: Themes
-        children:
+        - title: Themes and Components
+          children:
           - title: How to use existing themes
           - title: How to customise existing themes
           - title: How to use theme components
           - title: How to customise theme components
           - title: How to create a theme
-      - title: Menus
-        children:
-          - title: How to configure lazy menus
-          - title: How to define menus in config
-          - title: How to define menus in page frontmatter
-          - title: How to render menus in layouts
-      - title: Pagination
-        children:
-          - title: How to use internal pagination template
-          - title: How to create own pagination template
-      - title: Modules
-        children:
+        - title: Modules
+          children:
           - title: How to prepare your project to use modules
           - title: How to use existing / external modules
           - title: How to update modules used
           - title: How to vendor modules
-      - title: Content Management
+        - title: Assets
+          children:
+          - title: How to work wih SCSS
+          - title: How to work with Javascript 
+          - title: How to work with images
+      - title: Manage Content
         children:
-          - title: How to add syntax highlighting
-          - title: How to use Page Bundles
-          - title: How to
-          - title: How to manage content’s output URL
-      - title: Taxonomies
+          - title: Menus
+            children:
+            - title: How to configure lazy menus
+            - title: How to define menus in config
+            - title: How to define menus in page frontmatter
+            - title: How to render menus in layouts
+          - title: Pagination
+            children:
+            - title: How to use internal pagination template
+            - title: How to create own pagination template
+          - title: Taxonomies
+            children:
+            - title: How to define taxonomies
+            - title: How to disable taxonomies
+            - title: How to add taxonomies to content
+            - title: How to list taxonomies
+            - title: How to configure multilingual taxonomies
+            - title: How to add frontmatter to taxonomies
+          - title: Content writing
+            children:
+            - title: How to add syntax highlighting
+          - title: Page Resources
+            children:
+            - title: How to access page resources
+
+      - title: Manage Site
         children:
-          - title: How to define taxonomies
-          - title: How to disable taxonomies
-          - title: How to add taxonomies to content
-          - title: How to list taxonomies
-          - title: How to configure multilingual taxonomies
-          - title: How to add frontmatter to taxonomies
-      - title: Multilingual Sites
-        children:
-          - title: How to configure multilingual use
-  - title: Technical Reference
+        - title: How to setup multilingual sites
+        - title: How to generate custom outputs
+        - title: How to generate pages at custom URLs
+
+  - title: Hugo Reference Materials
+    path: reference
     children:
       - title: CLI commands
       - title: Configuration options
