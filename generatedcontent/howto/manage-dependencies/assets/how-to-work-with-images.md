@@ -1,9 +1,9 @@
 ---
-title: How to manage content’s output URL
+title: How to work with images
 
 ---
 
-## This is placeholder text for How to manage content’s output URL
+## This is placeholder text for How to work with images
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 

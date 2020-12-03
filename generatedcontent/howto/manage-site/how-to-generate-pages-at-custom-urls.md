@@ -1,9 +1,9 @@
 ---
-title: How to configure multilingual use
+title: How to generate pages at custom URLs
 
 ---
 
-## This is placeholder text for How to configure multilingual use
+## This is placeholder text for How to generate pages at custom URLs
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 

@@ -1,9 +1,9 @@
 ---
-title: Themes
+title: How to generate custom outputs
 
 ---
 
-## This is placeholder text for Themes
+## This is placeholder text for How to generate custom outputs
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 

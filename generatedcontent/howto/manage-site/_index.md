@@ -1,9 +1,9 @@
 ---
-title: How to
+title: Manage Site
 
 ---
 
-## This is placeholder text for How to
+## This is placeholder text for Manage Site
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
