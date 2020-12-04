@@ -1,0 +1,48 @@
+[[main]]
+    identifier = "news"
+    name = "News"
+    url = "#news"
+    weight = 100
+
+[[main]]
+    identifier = "themes"
+    name = "Themes"
+    url = "#themes"
+    weight = 200
+
+[[main]]
+    identifier = "showcase"
+    name = "Showcase"
+    url = "#showcase"
+    weight = 300
+
+[[main]]
+    identifier = "community"
+    name = "Community"
+    url = "#"
+    weight = 400
+
+
+[[docs]]
+    identifier = "start"
+    name = "Getting Started"
+    url = "/start/"
+    weight = 100
+
+[[docs]]
+    identifier = "tutorials"
+    name = "Tutorials"
+    url = "/tutorials/"
+    weight = 200
+
+[[docs]]
+    identifier = "howtos"
+    name = "How Tos"
+    url = "/howtos/"
+    weight = 300
+
+[[docs]]
+    identifier = "references"
+    name = "References"
+    url = "/references/"
+    weight = 400
