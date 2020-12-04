@@ -4,7 +4,7 @@ title: Getting Started With Hugo
 weight: 1000
 
 description: Podcasting operational change management inside of workflows to establish a framework.
-theme: pink-400
+theme: pink
 
 ---
 

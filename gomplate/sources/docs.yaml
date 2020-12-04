@@ -3,7 +3,7 @@ pages:
     path: start
     params:
       description: Podcasting operational change management inside of workflows to establish a framework.
-      theme: pink-400
+      theme: pink
     children:
       - title: What is Hugo
       - title: Hugo vs ___
@@ -42,7 +42,7 @@ pages:
     path: tutorials
     params:
       description: Taking seamless key performance indicators offline to maximise the long tail.
-      theme: blue-400
+      theme: blue
     children:
       - title: Create a Hugo site from scratch
       - title: Create a Multilingual Hugo site
@@ -52,7 +52,7 @@ pages:
     path: howto
     params:
       description: Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
-      theme: green-400
+      theme: green
     children:
       - title: Manage Hugo
         children:
@@ -138,7 +138,7 @@ pages:
     path: reference
     params:
       description: Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits.
-      theme: yellow-400
+      theme: yellow
     children:
       - title: CLI commands
       - title: Configuration options

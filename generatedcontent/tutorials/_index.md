@@ -4,7 +4,7 @@ title: Tutorials About Hugo
 weight: 1010
 
 description: Taking seamless key performance indicators offline to maximise the long tail.
-theme: blue-400
+theme: blue
 
 ---
 

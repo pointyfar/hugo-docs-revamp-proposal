@@ -4,7 +4,7 @@ title: How To Do Things With Hugo
 weight: 1020
 
 description: Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
-theme: green-400
+theme: green
 
 ---
 
