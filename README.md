@@ -17,7 +17,10 @@ To re-generate `generatedcontent`, run `gomplate` at the root of the project.
 
 Project uses [Learn](https://themes.gohugo.io/hugo-theme-learn/) theme, demo [here](https://sleepy-noether-c999b7.netlify.app/).
 
-Testing new theme: [repo here](https://themes.gohugo.io/hugo-theme-learn/) demo [here](https://sleepy-noether-c999b7.netlify.app/v2/).
-
-
 Repo at https://github.com/pointyfar/hugo-docs-revamp-proposal
+
+
+## Testing new theme: 
+
+[repo here](https://github.com/pointyfar/drt) demo [here](https://sleepy-noether-c999b7.netlify.app/v2/).
+
