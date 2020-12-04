@@ -1,6 +1,8 @@
 ---
 title: Chroma highlighting languages
 
+weight: 2040
+
 ---
 
 ## This is placeholder text for Chroma highlighting languages

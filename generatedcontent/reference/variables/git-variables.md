@@ -1,6 +1,8 @@
 ---
 title: Git variables
 
+weight: 3060
+
 ---
 
 ## This is placeholder text for Git variables

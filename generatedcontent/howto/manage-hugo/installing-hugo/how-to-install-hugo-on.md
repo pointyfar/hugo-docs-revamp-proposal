@@ -1,6 +1,8 @@
 ---
 title: How to install Hugo on ___
 
+weight: 4030
+
 ---
 
 ## This is placeholder text for How to install Hugo on ___

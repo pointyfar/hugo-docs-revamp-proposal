@@ -1,6 +1,8 @@
 ---
 title: Add search to your Hugo website
 
+weight: 2030
+
 ---
 
 ## This is placeholder text for Add search to your Hugo website

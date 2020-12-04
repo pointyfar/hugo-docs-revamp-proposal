@@ -1,6 +1,8 @@
 ---
 title: Pipes
 
+weight: 3040
+
 ---
 
 ## This is placeholder text for Pipes

@@ -1,6 +1,8 @@
 ---
 title: What are taxonomies and terms
 
+weight: 3060
+
 ---
 
 ## This is placeholder text for What are taxonomies and terms

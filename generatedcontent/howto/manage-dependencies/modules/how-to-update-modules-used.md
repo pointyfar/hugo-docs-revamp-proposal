@@ -1,6 +1,8 @@
 ---
 title: How to update modules used
 
+weight: 4020
+
 ---
 
 ## This is placeholder text for How to update modules used

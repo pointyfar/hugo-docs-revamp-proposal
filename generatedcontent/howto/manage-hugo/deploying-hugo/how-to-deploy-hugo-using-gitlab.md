@@ -1,6 +1,8 @@
 ---
 title: How to deploy Hugo using GitLab
 
+weight: 4070
+
 ---
 
 ## This is placeholder text for How to deploy Hugo using GitLab

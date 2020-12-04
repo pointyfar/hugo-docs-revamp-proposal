@@ -1,6 +1,8 @@
 ---
 title: How to work with images
 
+weight: 4020
+
 ---
 
 ## This is placeholder text for How to work with images

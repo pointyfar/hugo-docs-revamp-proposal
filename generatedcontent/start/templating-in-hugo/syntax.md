@@ -1,6 +1,8 @@
 ---
 title: Syntax
 
+weight: 3000
+
 ---
 
 ## This is placeholder text for Syntax

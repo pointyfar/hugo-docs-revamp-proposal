@@ -1,6 +1,8 @@
 ---
 title: How to use internal pagination template
 
+weight: 4000
+
 ---
 
 ## This is placeholder text for How to use internal pagination template

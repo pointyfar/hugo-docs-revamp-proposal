@@ -1,6 +1,8 @@
 ---
 title: Themes and Components
 
+weight: 3000
+
 ---
 
 ## This is placeholder text for Themes and Components

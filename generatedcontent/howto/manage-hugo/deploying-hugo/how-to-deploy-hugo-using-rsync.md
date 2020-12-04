@@ -1,6 +1,8 @@
 ---
 title: How to deploy Hugo using Rsync
 
+weight: 4110
+
 ---
 
 ## This is placeholder text for How to deploy Hugo using Rsync

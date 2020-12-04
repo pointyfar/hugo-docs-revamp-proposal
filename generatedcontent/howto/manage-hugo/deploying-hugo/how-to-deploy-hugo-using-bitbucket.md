@@ -1,6 +1,8 @@
 ---
 title: How to deploy Hugo using BitBucket
 
+weight: 4090
+
 ---
 
 ## This is placeholder text for How to deploy Hugo using BitBucket

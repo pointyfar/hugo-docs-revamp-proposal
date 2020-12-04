@@ -1,6 +1,8 @@
 ---
 title: How to generate custom outputs
 
+weight: 3010
+
 ---
 
 ## This is placeholder text for How to generate custom outputs

@@ -1,6 +1,8 @@
 ---
 title: How to deploy Hugo using Wercker
 
+weight: 4100
+
 ---
 
 ## This is placeholder text for How to deploy Hugo using Wercker

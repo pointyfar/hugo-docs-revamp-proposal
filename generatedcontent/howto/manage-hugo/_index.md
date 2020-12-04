@@ -1,6 +1,8 @@
 ---
 title: Manage Hugo
 
+weight: 2000
+
 ---
 
 ## This is placeholder text for Manage Hugo

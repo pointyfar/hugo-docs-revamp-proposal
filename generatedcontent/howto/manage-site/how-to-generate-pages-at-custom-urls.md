@@ -1,6 +1,8 @@
 ---
 title: How to generate pages at custom URLs
 
+weight: 3020
+
 ---
 
 ## This is placeholder text for How to generate pages at custom URLs

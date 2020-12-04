@@ -1,6 +1,8 @@
 ---
 title: What is a Page’s .Kind
 
+weight: 3010
+
 ---
 
 ## This is placeholder text for What is a Page’s .Kind

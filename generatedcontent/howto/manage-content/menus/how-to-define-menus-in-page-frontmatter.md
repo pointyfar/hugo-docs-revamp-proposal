@@ -1,6 +1,8 @@
 ---
 title: How to define menus in page frontmatter
 
+weight: 4020
+
 ---
 
 ## This is placeholder text for How to define menus in page frontmatter

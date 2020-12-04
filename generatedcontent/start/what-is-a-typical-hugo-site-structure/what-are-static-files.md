@@ -1,6 +1,8 @@
 ---
 title: What are static files
 
+weight: 3040
+
 ---
 
 ## This is placeholder text for What are static files

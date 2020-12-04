@@ -1,6 +1,8 @@
 ---
 title: What are layout files
 
+weight: 3030
+
 ---
 
 ## This is placeholder text for What are layout files

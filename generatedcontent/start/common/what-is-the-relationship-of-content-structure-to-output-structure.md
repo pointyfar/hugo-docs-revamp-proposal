@@ -1,6 +1,8 @@
 ---
 title: What is the relationship of content structure to output structure
 
+weight: 3080
+
 ---
 
 ## This is placeholder text for What is the relationship of content structure to output structure

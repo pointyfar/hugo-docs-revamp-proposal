@@ -1,6 +1,8 @@
 ---
 title: How to define menus in config
 
+weight: 4010
+
 ---
 
 ## This is placeholder text for How to define menus in config

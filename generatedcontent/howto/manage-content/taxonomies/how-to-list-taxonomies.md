@@ -1,6 +1,8 @@
 ---
 title: How to list taxonomies
 
+weight: 4030
+
 ---
 
 ## This is placeholder text for How to list taxonomies

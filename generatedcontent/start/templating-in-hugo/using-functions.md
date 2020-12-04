@@ -1,6 +1,8 @@
 ---
 title: Using functions
 
+weight: 3010
+
 ---
 
 ## This is placeholder text for Using functions

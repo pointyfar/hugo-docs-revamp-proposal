@@ -1,6 +1,8 @@
 ---
 title: How to work with Javascript
 
+weight: 4010
+
 ---
 
 ## This is placeholder text for How to work with Javascript

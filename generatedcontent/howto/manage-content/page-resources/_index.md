@@ -1,6 +1,8 @@
 ---
 title: Page Resources
 
+weight: 3040
+
 ---
 
 ## This is placeholder text for Page Resources

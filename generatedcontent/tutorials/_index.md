@@ -1,6 +1,8 @@
 ---
 title: Tutorials About Hugo
 
+weight: 1010
+
 ---
 
 ## This is placeholder text for Tutorials About Hugo

@@ -14,8 +14,9 @@ in: |
         {{ if coll.Has . "path" }}{{ $slug = print .path }}{{ end }}
         
         {{ $path2 := "" }}
-        
-        {{ $pg := . }}
+        {{$weight := (mul 1000 $level) | add (mul 10 $i)}}
+        {{ $pg0 := . }}
+        {{ $pg := $pg0 | coll.Merge | merge (dict "weight" $weight )}}
         
         {{ if coll.Has . "children" }}
 
@@ -29,6 +30,7 @@ in: |
           {{ template "makepages" (dict "data" .children "path" $path2 "level" (add 1 $level)) }}
           
         {{ else }}
+          
           {{ tmpl.Exec "pageTmpl" $pg | file.Write (print $path "/" $slug ".md") }}
         {{ end }}
 
@@ -37,13 +39,11 @@ in: |
 
 
 templates:
-  - pageTmpl=gomplate/foo.tmpl
+  - pageTmpl=gomplate/templates/hugo.tmpl
       
 datasources:
-  posts:
-    url: sources/datasource.json 
   pages:
-    url: sources/docs.yaml
+    url: gomplate/sources/docs.yaml
 
 suppressEmpty: true
 

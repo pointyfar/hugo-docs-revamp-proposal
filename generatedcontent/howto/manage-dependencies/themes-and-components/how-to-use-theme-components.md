@@ -1,6 +1,8 @@
 ---
 title: How to use theme components
 
+weight: 4020
+
 ---
 
 ## This is placeholder text for How to use theme components

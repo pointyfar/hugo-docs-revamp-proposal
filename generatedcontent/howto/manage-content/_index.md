@@ -1,6 +1,8 @@
 ---
 title: Manage Content
 
+weight: 2020
+
 ---
 
 ## This is placeholder text for Manage Content

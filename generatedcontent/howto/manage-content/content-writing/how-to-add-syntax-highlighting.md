@@ -1,6 +1,8 @@
 ---
 title: How to add syntax highlighting
 
+weight: 4000
+
 ---
 
 ## This is placeholder text for How to add syntax highlighting

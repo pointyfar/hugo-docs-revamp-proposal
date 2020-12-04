@@ -1,6 +1,8 @@
 ---
 title: How to create a theme
 
+weight: 4040
+
 ---
 
 ## This is placeholder text for How to create a theme

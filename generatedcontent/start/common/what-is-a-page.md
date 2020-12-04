@@ -1,6 +1,8 @@
 ---
 title: What is a Page
 
+weight: 3000
+
 ---
 
 ## This is placeholder text for What is a Page

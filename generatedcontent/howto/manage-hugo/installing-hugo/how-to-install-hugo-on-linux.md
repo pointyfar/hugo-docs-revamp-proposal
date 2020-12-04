@@ -1,6 +1,8 @@
 ---
 title: How to install Hugo on Linux
 
+weight: 4010
+
 ---
 
 ## This is placeholder text for How to install Hugo on Linux

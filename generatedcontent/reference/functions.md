@@ -1,6 +1,8 @@
 ---
 title: Functions
 
+weight: 2020
+
 ---
 
 ## This is placeholder text for Functions

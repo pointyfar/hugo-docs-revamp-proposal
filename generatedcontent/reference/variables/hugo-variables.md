@@ -1,6 +1,8 @@
 ---
 title: Hugo variables
 
+weight: 3050
+
 ---
 
 ## This is placeholder text for Hugo variables

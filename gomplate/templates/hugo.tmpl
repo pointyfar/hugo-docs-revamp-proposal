@@ -1,6 +1,8 @@
 ---
 title: {{ .title }}
-
+{{ if coll.Has . "weight" }}
+weight: {{.weight}}
+{{ end }}
 ---
 
 ## This is placeholder text for {{.title}}

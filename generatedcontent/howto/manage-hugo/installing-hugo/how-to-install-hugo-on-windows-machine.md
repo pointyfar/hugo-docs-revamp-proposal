@@ -1,6 +1,8 @@
 ---
 title: How to install Hugo on Windows machine
 
+weight: 4000
+
 ---
 
 ## This is placeholder text for How to install Hugo on Windows machine

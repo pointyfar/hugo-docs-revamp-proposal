@@ -1,6 +1,8 @@
 ---
 title: Deploying Hugo
 
+weight: 3020
+
 ---
 
 ## This is placeholder text for Deploying Hugo

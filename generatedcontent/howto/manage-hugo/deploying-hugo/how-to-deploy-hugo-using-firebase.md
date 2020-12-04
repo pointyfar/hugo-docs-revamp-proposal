@@ -1,6 +1,8 @@
 ---
 title: How to deploy Hugo using Firebase
 
+weight: 4050
+
 ---
 
 ## This is placeholder text for How to deploy Hugo using Firebase

@@ -1,6 +1,8 @@
 ---
 title: How to deploy Hugo using AWS Amplify
 
+weight: 4030
+
 ---
 
 ## This is placeholder text for How to deploy Hugo using AWS Amplify

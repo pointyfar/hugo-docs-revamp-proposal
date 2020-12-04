@@ -1,6 +1,8 @@
 ---
 title: How to deploy Hugo using GitHub
 
+weight: 4060
+
 ---
 
 ## This is placeholder text for How to deploy Hugo using GitHub

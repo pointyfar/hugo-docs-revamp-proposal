@@ -1,6 +1,8 @@
 ---
 title: Installing Hugo
 
+weight: 3000
+
 ---
 
 ## This is placeholder text for Installing Hugo

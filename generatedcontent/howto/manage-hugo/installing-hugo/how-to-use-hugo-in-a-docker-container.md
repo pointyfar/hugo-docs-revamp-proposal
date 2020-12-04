@@ -1,6 +1,8 @@
 ---
 title: How to use Hugo in a Docker container
 
+weight: 4040
+
 ---
 
 ## This is placeholder text for How to use Hugo in a Docker container

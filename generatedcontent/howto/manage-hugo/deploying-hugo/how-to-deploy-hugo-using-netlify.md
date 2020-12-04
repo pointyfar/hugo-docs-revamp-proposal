@@ -1,6 +1,8 @@
 ---
 title: How to deploy Hugo using Netlify
 
+weight: 4020
+
 ---
 
 ## This is placeholder text for How to deploy Hugo using Netlify

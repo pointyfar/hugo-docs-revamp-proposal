@@ -1,6 +1,8 @@
 ---
 title: How to add frontmatter to taxonomies
 
+weight: 4050
+
 ---
 
 ## This is placeholder text for How to add frontmatter to taxonomies

@@ -1,6 +1,8 @@
 ---
 title: Create a Multilingual Hugo site
 
+weight: 2010
+
 ---
 
 ## This is placeholder text for Create a Multilingual Hugo site

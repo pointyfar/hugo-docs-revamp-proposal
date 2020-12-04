@@ -1,6 +1,8 @@
 ---
 title: Sitemap variables
 
+weight: 3070
+
 ---
 
 ## This is placeholder text for Sitemap variables

@@ -1,6 +1,8 @@
 ---
 title: What are assets files
 
+weight: 3050
+
 ---
 
 ## This is placeholder text for What are assets files

@@ -1,6 +1,8 @@
 ---
 title: What are configuration files
 
+weight: 3070
+
 ---
 
 ## This is placeholder text for What are configuration files

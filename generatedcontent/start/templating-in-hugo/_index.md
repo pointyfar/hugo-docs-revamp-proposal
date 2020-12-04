@@ -1,6 +1,8 @@
 ---
 title: Templating in Hugo
 
+weight: 2050
+
 ---
 
 ## This is placeholder text for Templating in Hugo

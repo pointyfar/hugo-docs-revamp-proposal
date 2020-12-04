@@ -1,6 +1,8 @@
 ---
 title: How to access page resources
 
+weight: 4000
+
 ---
 
 ## This is placeholder text for How to access page resources

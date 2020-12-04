@@ -1,6 +1,8 @@
 ---
 title: What are content files
 
+weight: 3010
+
 ---
 
 ## This is placeholder text for What are content files

@@ -1,6 +1,8 @@
 ---
 title: Create a Hugo site from scratch
 
+weight: 2000
+
 ---
 
 ## This is placeholder text for Create a Hugo site from scratch

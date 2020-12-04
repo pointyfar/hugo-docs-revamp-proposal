@@ -1,6 +1,8 @@
 ---
 title: File variables
 
+weight: 3040
+
 ---
 
 ## This is placeholder text for File variables

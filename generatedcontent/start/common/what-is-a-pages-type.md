@@ -1,6 +1,8 @@
 ---
 title: What is a Page’s .Type
 
+weight: 3020
+
 ---
 
 ## This is placeholder text for What is a Page’s .Type

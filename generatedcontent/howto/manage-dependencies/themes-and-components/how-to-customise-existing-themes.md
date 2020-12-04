@@ -1,6 +1,8 @@
 ---
 title: How to customise existing themes
 
+weight: 4010
+
 ---
 
 ## This is placeholder text for How to customise existing themes

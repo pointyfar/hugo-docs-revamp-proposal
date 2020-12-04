@@ -1,6 +1,8 @@
 ---
 title: How To Do Things With Hugo
 
+weight: 1020
+
 ---
 
 ## This is placeholder text for How To Do Things With Hugo

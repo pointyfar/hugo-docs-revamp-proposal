@@ -1,6 +1,8 @@
 ---
 title: How to deploy Hugo using Render
 
+weight: 4040
+
 ---
 
 ## This is placeholder text for How to deploy Hugo using Render

@@ -1,6 +1,8 @@
 ---
 title: How to add taxonomies to content
 
+weight: 4020
+
 ---
 
 ## This is placeholder text for How to add taxonomies to content

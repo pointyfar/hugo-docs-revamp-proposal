@@ -1,6 +1,8 @@
 ---
 title: How to use existing / external modules
 
+weight: 4010
+
 ---
 
 ## This is placeholder text for How to use existing / external modules

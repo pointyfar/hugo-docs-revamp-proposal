@@ -1,6 +1,8 @@
 ---
 title: How to use existing themes
 
+weight: 4000
+
 ---
 
 ## This is placeholder text for How to use existing themes

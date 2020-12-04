@@ -1,6 +1,8 @@
 ---
 title: Migrating to Hugo
 
+weight: 3010
+
 ---
 
 ## This is placeholder text for Migrating to Hugo

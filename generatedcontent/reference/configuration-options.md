@@ -1,6 +1,8 @@
 ---
 title: Configuration options
 
+weight: 2010
+
 ---
 
 ## This is placeholder text for Configuration options

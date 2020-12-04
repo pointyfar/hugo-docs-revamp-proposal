@@ -1,6 +1,8 @@
 ---
 title: Create a custom output format
 
+weight: 2020
+
 ---
 
 ## This is placeholder text for Create a custom output format

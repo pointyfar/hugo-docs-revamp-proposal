@@ -1,6 +1,8 @@
 ---
 title: How to configure multilingual taxonomies
 
+weight: 4040
+
 ---
 
 ## This is placeholder text for How to configure multilingual taxonomies

@@ -1,6 +1,8 @@
 ---
 title: Manage Dependencies
 
+weight: 2010
+
 ---
 
 ## This is placeholder text for Manage Dependencies

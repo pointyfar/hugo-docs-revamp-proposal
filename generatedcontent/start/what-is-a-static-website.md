@@ -1,6 +1,8 @@
 ---
 title: What is a static website
 
+weight: 2020
+
 ---
 
 ## This is placeholder text for What is a static website

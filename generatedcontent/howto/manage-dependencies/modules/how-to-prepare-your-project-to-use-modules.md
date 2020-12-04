@@ -1,6 +1,8 @@
 ---
 title: How to prepare your project to use modules
 
+weight: 4000
+
 ---
 
 ## This is placeholder text for How to prepare your project to use modules

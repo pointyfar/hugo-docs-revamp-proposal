@@ -1,6 +1,8 @@
 ---
 title: How to install Hugo on Mac
 
+weight: 4020
+
 ---
 
 ## This is placeholder text for How to install Hugo on Mac

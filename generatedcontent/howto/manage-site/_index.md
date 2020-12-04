@@ -1,6 +1,8 @@
 ---
 title: Manage Site
 
+weight: 2030
+
 ---
 
 ## This is placeholder text for Manage Site

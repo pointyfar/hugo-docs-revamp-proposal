@@ -1,6 +1,8 @@
 ---
 title: How to configure lazy menus
 
+weight: 4000
+
 ---
 
 ## This is placeholder text for How to configure lazy menus

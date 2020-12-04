@@ -1,6 +1,8 @@
 ---
 title: Getting Started With Hugo
 
+weight: 1000
+
 ---
 
 ## This is placeholder text for Getting Started With Hugo

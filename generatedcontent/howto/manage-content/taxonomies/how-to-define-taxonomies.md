@@ -1,6 +1,8 @@
 ---
 title: How to define taxonomies
 
+weight: 4000
+
 ---
 
 ## This is placeholder text for How to define taxonomies

@@ -1,6 +1,8 @@
 ---
 title: How to customise theme components
 
+weight: 4030
+
 ---
 
 ## This is placeholder text for How to customise theme components

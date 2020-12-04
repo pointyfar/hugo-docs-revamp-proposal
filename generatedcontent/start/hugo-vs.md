@@ -1,6 +1,8 @@
 ---
 title: Hugo vs ___
 
+weight: 2010
+
 ---
 
 ## This is placeholder text for Hugo vs ___

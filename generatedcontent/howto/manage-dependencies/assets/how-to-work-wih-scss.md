@@ -1,6 +1,8 @@
 ---
 title: How to work wih SCSS
 
+weight: 4000
+
 ---
 
 ## This is placeholder text for How to work wih SCSS

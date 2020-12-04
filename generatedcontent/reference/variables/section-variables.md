@@ -1,6 +1,8 @@
 ---
 title: Section variables
 
+weight: 3020
+
 ---
 
 ## This is placeholder text for Section variables

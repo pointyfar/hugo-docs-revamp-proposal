@@ -1,6 +1,8 @@
 ---
 title: How to setup multilingual sites
 
+weight: 3000
+
 ---
 
 ## This is placeholder text for How to setup multilingual sites

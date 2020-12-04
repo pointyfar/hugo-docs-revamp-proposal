@@ -1,6 +1,8 @@
 ---
 title: What is a Hugo Menu
 
+weight: 3050
+
 ---
 
 ## This is placeholder text for What is a Hugo Menu

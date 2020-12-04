@@ -1,6 +1,8 @@
 ---
 title: Hugo Reference Materials
 
+weight: 1030
+
 ---
 
 ## This is placeholder text for Hugo Reference Materials

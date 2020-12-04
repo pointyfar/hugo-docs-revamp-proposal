@@ -1,6 +1,8 @@
 ---
 title: What is Hugo
 
+weight: 2000
+
 ---
 
 ## This is placeholder text for What is Hugo

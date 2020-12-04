@@ -1,6 +1,8 @@
 ---
 title: How to deploy Hugo using Nanobox
 
+weight: 4010
+
 ---
 
 ## This is placeholder text for How to deploy Hugo using Nanobox

@@ -1,6 +1,8 @@
 ---
 title: What is a typical Hugo site structure
 
+weight: 2030
+
 ---
 
 ## This is placeholder text for What is a typical Hugo site structure

@@ -1,6 +1,8 @@
 ---
 title: How to render menus in layouts
 
+weight: 4030
+
 ---
 
 ## This is placeholder text for How to render menus in layouts

@@ -1,6 +1,8 @@
 ---
 title: Content writing
 
+weight: 3030
+
 ---
 
 ## This is placeholder text for Content writing

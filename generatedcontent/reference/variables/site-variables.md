@@ -1,6 +1,8 @@
 ---
 title: Site variables
 
+weight: 3000
+
 ---
 
 ## This is placeholder text for Site variables

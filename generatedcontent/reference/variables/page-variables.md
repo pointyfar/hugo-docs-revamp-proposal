@@ -1,6 +1,8 @@
 ---
 title: Page variables
 
+weight: 3010
+
 ---
 
 ## This is placeholder text for Page variables

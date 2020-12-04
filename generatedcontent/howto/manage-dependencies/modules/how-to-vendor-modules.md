@@ -1,6 +1,8 @@
 ---
 title: How to vendor modules
 
+weight: 4030
+
 ---
 
 ## This is placeholder text for How to vendor modules

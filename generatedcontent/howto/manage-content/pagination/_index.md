@@ -1,6 +1,8 @@
 ---
 title: Pagination
 
+weight: 3010
+
 ---
 
 ## This is placeholder text for Pagination

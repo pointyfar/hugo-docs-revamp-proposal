@@ -1,6 +1,8 @@
 ---
 title: CLI commands
 
+weight: 2000
+
 ---
 
 ## This is placeholder text for CLI commands
