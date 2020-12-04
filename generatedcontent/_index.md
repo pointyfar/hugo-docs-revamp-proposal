@@ -1,6 +1,7 @@
 ---
 title: Hugo Documentation Revamp Proposal
 
+
 ---
 
 ## This is placeholder text for Hugo Documentation Revamp Proposal

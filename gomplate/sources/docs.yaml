@@ -1,6 +1,9 @@
 pages:
   - title: Getting Started With Hugo
     path: start
+    params:
+      description: Podcasting operational change management inside of workflows to establish a framework.
+      theme: pink-400
     children:
       - title: What is Hugo
       - title: Hugo vs ___
@@ -37,6 +40,9 @@ pages:
           - title: Whitespace
   - title: Tutorials About Hugo
     path: tutorials
+    params:
+      description: Taking seamless key performance indicators offline to maximise the long tail.
+      theme: blue-400
     children:
       - title: Create a Hugo site from scratch
       - title: Create a Multilingual Hugo site
@@ -44,6 +50,9 @@ pages:
       - title: Add search to your Hugo website
   - title: How To Do Things With Hugo
     path: howto
+    params:
+      description: Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+      theme: green-400
     children:
       - title: Manage Hugo
         children:
@@ -127,6 +136,9 @@ pages:
 
   - title: Hugo Reference Materials
     path: reference
+    params:
+      description: Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits.
+      theme: yellow-400
     children:
       - title: CLI commands
       - title: Configuration options

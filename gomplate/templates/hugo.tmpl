@@ -1,8 +1,9 @@
 ---
 title: {{ .title }}
 {{ if coll.Has . "weight" }}
-weight: {{.weight}}
-{{ end }}
+weight: {{.weight}}{{ end }}
+{{ if coll.Has . "params" }}
+{{.params | data.ToYAML }}{{- end }}
 ---
 
 ## This is placeholder text for {{.title}}

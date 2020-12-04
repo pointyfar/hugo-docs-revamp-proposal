@@ -3,6 +3,9 @@ title: Hugo Reference Materials
 
 weight: 1030
 
+description: Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits.
+theme: yellow-400
+
 ---
 
 ## This is placeholder text for Hugo Reference Materials
