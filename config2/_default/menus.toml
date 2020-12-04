@@ -38,11 +38,11 @@
 [[docs]]
     identifier = "howtos"
     name = "How Tos"
-    url = "/howtos/"
+    url = "/howto/"
     weight = 300
 
 [[docs]]
-    identifier = "references"
-    name = "References"
-    url = "/references/"
+    identifier = "reference"
+    name = "Reference"
+    url = "/reference/"
     weight = 400
