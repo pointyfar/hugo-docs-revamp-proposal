@@ -4,7 +4,7 @@ title = "My New Hugo Site"
 
 publishDir = "public/v2"
 
-configDir = "config2"
+theme = "github.com/pointyfar/drt"
 
 [build]
 writeStats = true
@@ -34,3 +34,4 @@ writeStats = true
 [[module.mounts]]
   source = "data"
   target = "data"
+

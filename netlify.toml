@@ -1,21 +1,21 @@
 [build]
 publish = "public"
-command = "hugo --config=config2.toml &&  hugo --gc --minify -d public;"
+command = "hugo --configDir=config2 &&  hugo --gc --minify -d public;"
 
 [context.production.environment]
-HUGO_VERSION = "0.78.2"
+HUGO_VERSION = "0.79"
 
 [context.branch-deploy]
 command = "hugo --minify --gc -d public -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.78.2"
+HUGO_VERSION = "0.79"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.78.2"
+HUGO_VERSION = "0.79"
 
 [[headers]]
 for = "/*.jpg"
