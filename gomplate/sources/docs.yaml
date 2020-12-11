@@ -1,43 +1,55 @@
 pages:
+  - title: About Hugo
+    path: about
+    children:
+      - title: What is Hugo
+        params:
+          description: More or less the content of current "What is Hugo" page
+      - title: Jamstack and The Benefits of Static
+        params:
+          description: More or less the content of "The benefits of static" page plus explain the Jamstack concept
+      - title: Hugo Features
+        params:
+          description: More or less the content of "Hugo features" page
+      - title : Hugo vs __
+
+      - title: Licence
+        params:
+          description: Perhaps simply better to put a link to https://github.com/gohugoio/hugo/blob/master/LICENSE
   - title: Getting Started With Hugo
     path: start
     params:
       description: Podcasting operational change management inside of workflows to establish a framework.
       theme: pink
     children:
-      - title: What is Hugo
-      - title: Hugo vs ___
-      - title: What is a static website
-      - title: What is a typical Hugo site structure
+      - title: Quick Start
+        params:
+          description: More or less the content of "Quick Start" page
+      - title: Hugo site structure
         children:
-          - title: What are archetypes
-          - title: What are content files
-          - title: What are data files
-          - title: What are layout files
-          - title: What are static files
-          - title: What are assets files
-          - title: What are themes
-          - title: What are configuration files
-      - title: What are some common concepts
+          - title: Directory structure
+            params:
+              description: I would say one page is probably enough here with archetypes, content, data, layout...
+          - title: Relationship of content structure to output structure
+      - title: Common concepts
         path: common
         children:
-          - title: What is a Page
-          - title: What is a Page’s .Kind
-          - title: What is a Page’s .Type
-          - title: What is a Page’s .Section
-          - title: What are shortcodes
+          - title: Page, Section and Type
+            params:
+              description: One page that explain the Page Bundles, Page Resource and the section vs type
+          - title: Markdown
+          - title: Themes
+          - title: Front Matter
+          - title: Taxonomies and Terms
+          - title: Shortcodes
+            params:
+              description: only the concept. Then the list of available shortcode is a page in Reference
           - title: What is a Hugo Menu
-          - title: What are taxonomies and terms
-          - title: What is markdown
-          - title: What is the relationship of content structure to output structure
+            params:
+              description: I would REMOVE it from here as not really a "core concept" of Hugo. Best in Tutorial
       - title: Templating in Hugo
-        children:
-          - title: Syntax
-          - title: Using functions
-          - title: Iteration
-          - title: Conditionals
-          - title: Pipes
-          - title: Whitespace
+        params:
+          description: proobably only one page here, a lighter verions of current "Templates > Introduction" page. Syntax, functions, iterations...
   - title: Tutorials About Hugo
     path: tutorials
     params:
@@ -80,7 +92,6 @@ pages:
             - title: How to deploy Hugo using BitBucket
             - title: How to deploy Hugo using Wercker
             - title: How to deploy Hugo using Rsync
-
       - title: Manage Dependencies
         children:
         - title: Themes and Components
@@ -127,13 +138,11 @@ pages:
           - title: Page Resources
             children:
             - title: How to access page resources
-
       - title: Manage Site
         children:
         - title: How to setup multilingual sites
         - title: How to generate custom outputs
         - title: How to generate pages at custom URLs
-
   - title: Hugo Reference Materials
     path: reference
     params:
@@ -142,6 +151,7 @@ pages:
     children:
       - title: CLI commands
       - title: Configuration options
+      - title: Hugo Shortcodes
       - title: Functions
       - title: Variables
         children:
